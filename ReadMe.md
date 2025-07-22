@@ -35,7 +35,7 @@ It is an homage to the role [UNiplexed Information and Computing System (UNIX](h
 
 **2. GNU/Linux Ontology (GLO):** [World Wide Web (WWW)](https://en.wikipedia.org/wiki/World_Wide_Web) [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) [ontology (SWO)](https://en.wikipedia.org/wiki/Ontology_(information_science)) and [interontological alignment](https://en.wikipedia.org/wiki/Ontology_alignment).
 
-Filesystem Hierarchy Standard (FHS) Ontology:
+_2.1. Filesystem Hierarchy Standard (FHS) Ontology:_
 - Root Directory (/).
 - Binaries (/bin).
 - Libraries (/lib).
