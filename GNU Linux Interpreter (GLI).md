@@ -34,7 +34,7 @@ It is an homage to the role [UNiplexed Information and Computing System (UNIX](h
 **1. GNU/Linux Thesaurus (GLT):** [GNU/Linux](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy) [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) [thesaurus](https://en.wikipedia.org/wiki/Thesaurus_(information_retrieval)) [open source governance](https://en.wikipedia.org/wiki/Open-source_governance).
 
 _1.1. Filesystem Hierarchy Standard (FHS) Ontology:_
-- Root Directory (/).
+- Base Directory (/).
 - Binaries (/bin).
 - Libraries (/lib).
 - System Binaries (/sbin).
