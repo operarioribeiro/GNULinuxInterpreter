@@ -33,10 +33,8 @@ It is an homage to the role [UNiplexed Information and Computing System (UNIX](h
 
 **1. GNU/Linux Thesaurus (GLT):** [GNU/Linux](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy) [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary) [thesaurus](https://en.wikipedia.org/wiki/Thesaurus_(information_retrieval)) [open source governance](https://en.wikipedia.org/wiki/Open-source_governance).
 
-**2. GNU/Linux Ontology (GLO):** [World Wide Web (WWW)](https://en.wikipedia.org/wiki/World_Wide_Web) [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) [ontology (SWO)](https://en.wikipedia.org/wiki/Ontology_(information_science)) and [interontological alignment](https://en.wikipedia.org/wiki/Ontology_alignment).
-
-_2.1. Filesystem Hierarchy Standard (FHS) Ontology:_
-- Root Directory (/).
+_1.1. Filesystem Hierarchy Standard (FHS) Ontology:_
+- Base Directory (/).
 - Binaries (/bin).
 - Libraries (/lib).
 - System Binaries (/sbin).
@@ -49,6 +47,8 @@ _2.1. Filesystem Hierarchy Standard (FHS) Ontology:_
 - Media  (/media).
 - Optional Software (/opt).
 - Root Admnistrator (/root).
+
+**2. GNU/Linux Ontology (GLO):** [World Wide Web (WWW)](https://en.wikipedia.org/wiki/World_Wide_Web) [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) [ontology (SWO)](https://en.wikipedia.org/wiki/Ontology_(information_science)) and [interontological alignment](https://en.wikipedia.org/wiki/Ontology_alignment).
 
 **3. GNU Linux Interpreter (GLI) Software Development:** [GNU](https://en.wikipedia.org/wiki/Open-source_governance)/[Linux](https://en.wikipedia.org/wiki/Linux) [Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) and [terminal.console](https://en.wikipedia.org/wiki/Linux_console) [Bourne Again Shell (BASH) scripting language](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) to [English Lingua Franca](https://en.wikipedia.org/wiki/English_as_a_lingua_franca) [natural language](https://en.wikipedia.org/wiki/Natural_language) [machine translation](https://en.wikipedia.org/wiki/Machine_translation) [software](https://en.wikipedia.org/wiki/Open-source_software) [secure operational development (DevSecOps)](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_shifting_security_left).
 
