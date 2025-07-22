@@ -6,7 +6,7 @@
 
 **GNU/Linux Interpreter (GLI)** is an [open source governance](https://en.wikipedia.org/wiki/Open-source_governance) [collaborative](https://en.wikipedia.org/wiki/Collaboration) [free libre](https://gnu.org/philosophy/floss-and-foss.en.html) [open infra](https://openinfra.org/) [metalinguistic](https://en.wikipedia.org/wiki/Metalanguage) [self-explanatory](https://en.wikipedia.org/wiki/Self-explanatory) [machine translation](https://en.wikipedia.org/wiki/Machine_translation) [software](https://en.wikipedia.org/wiki/Open-source_software) for  [GNU](https://en.wikipedia.org/wiki/Open-source_governance)/[Linux](https://en.wikipedia.org/wiki/Linux) [Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) and [terminal console](https://en.wikipedia.org/wiki/Linux_console) [Bourne Again Shell (BASH) scripting language](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) to [English Lingua Franca](https://en.wikipedia.org/wiki/English_as_a_lingua_franca) [natural language](https://en.wikipedia.org/wiki/Natural_language).
 
-![image](https://github.com/operarioribeiro/MetaGNULinux/blob/main/GNU%20Linux%20Interpreter%20(GLI).png)
+![image](https://github.com/operarioribeiro/GNULinuxInterpreter/blob/main/GNU%20Linux%20Interpreter%20(GLI).png)
 
 It is an homage to the role [UNiplexed Information and Computing System (UNIX](https://en.wikipedia.org/wiki/UNIX) in the history of [open source culture](https://academia.edu/130285565/Open_Source_Culture).
 
