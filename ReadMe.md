@@ -6,7 +6,7 @@
 
 **GNU/Linux Ontology (GLO)** is an [open source governance](https://en.wikipedia.org/wiki/Open-source_governance) [collaborative](https://en.wikipedia.org/wiki/Collaboration) [free libre](https://gnu.org/philosophy/floss-and-foss.en.html) [open infra](https://openinfra.org/) [metalinguistic](https://en.wikipedia.org/wiki/Metalanguage) [self-explanatory](https://en.wikipedia.org/wiki/Self-explanatory) [machine translation](https://en.wikipedia.org/wiki/Machine_translation) [software](https://en.wikipedia.org/wiki/Open-source_software) for [GNU](https://en.wikipedia.org/wiki/Open-source_governance)/[Linux](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) to [English Lingua Franca](https://en.wikipedia.org/wiki/English_as_a_lingua_franca) [natural language](https://en.wikipedia.org/wiki/Natural_language).
 
-It is an homage to the role [UNiplexed Information and Computing System (UNIX)](https://en.wikipedia.org/wiki/UNIX) in the history of [open source culture](https://academia.edu/130285565/Open_Source_Culture).
+It is an homage to the role [UNiplexed Information and X11 (UNIX) Computer System](https://en.wikipedia.org/wiki/UNIX) in the history of [open source culture](https://academia.edu/130285565/Open_Source_Culture).
 
 ![image](https://github.com/operarioribeiro/GNULinuxOntology/blob/main/GNU%20Linux%20Ontology%20(GLO).png)
 
